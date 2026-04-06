@@ -1,0 +1,56 @@
+============================================================
+       PHISHING EMAIL TRIAGE REPORT
+============================================================
+Date/Time : 2026-04-06 00:58:22
+Analyst   : Afeez Akorede
+Verdict   : LOW RISK - MONITOR
+------------------------------------------------------------
+
+EMAIL HEADER SUMMARY
+  Subject      : 🔋 Zonnepanelen voor een goede prijs 
+  From         : Zonnepanelen installateur <zonnepaneel@appjj.serenitepure.fr>
+  Reply-To     : Zonnepanelen installateur <news@aichakandisha.com>
+  Return-Path  : return@dturm.de
+
+EMAIL ROUTING (Received Headers)
+  Hop 1: from MN2PR19MB3966.namprd19.prod.outlook.com (::1) by MN0PR19MB6312.namprd19.prod.outlook.com with H
+  Hop 2: from AM7PR02CA0005.eurprd02.prod.outlook.com (2603:10a6:20b:100::15) by MN2PR19MB3966.namprd19.prod.
+  Hop 3: from VI1EUR05FT048.eop-eur05.prod.protection.outlook.com (2603:10a6:20b:100::4) by AM7PR02CA0005.out
+  Hop 4: from dturm.de (57.128.69.202) by VI1EUR05FT048.mail.protection.outlook.com (10.233.243.188) with Mic
+
+IOC RESULTS
+------------------------------------------------------------
+  [Clean]
+  Type    : URL
+  Value   : https://i.imgur.com/Hr5TM3Y.png'
+  Engines : 0 flagged this as malicious
+
+  [Clean]
+  Type    : URL
+  Value   : https://i.imgur.com/sOPmaS3.png')
+  Engines : 0 flagged this as malicious
+
+  [Clean]
+  Type    : URL
+  Value   : https://i.imgur.com/sOPmaS3.png'
+  Engines : 0 flagged this as malicious
+
+  [Clean]
+  Type    : URL
+  Value   : http://go.nltrck.com/?c=495&amp;source=consumentenbond&amp;s1=&amp;lp=1190
+  Engines : 0 flagged this as malicious
+
+  [Clean]
+  Type    : IP
+  Value   : 57.128.69.202
+  Engines : 0 flagged this as malicious
+
+  [Clean]
+  Type    : IP
+  Value   : 10.233.243.188
+  Engines : 0 flagged this as malicious
+
+------------------------------------------------------------
+RECOMMENDED ACTION
+  LOW RISK  -> Log and monitor. No immediate action required.
+============================================================
