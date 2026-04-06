@@ -44,6 +44,10 @@ In a real SOC environment, this same process takes an analyst
 | Credential Theft | T1056 | Identifies lookalike phishing domains |
 
 ---
+## Sample Report Output
+see Sample_reports/folder for full example reports.
+
+---
 ## Setup Instructions 
 1. Clone this repo
 2. Run: pip install -r requirements.txt
