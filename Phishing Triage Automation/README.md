@@ -1,4 +1,4 @@
-#Phishing Email Triage AUtomation
+### Phishing Email Triage AUtomation
 
 ## What This Project Does
 A Python tootl that automates Tier 1 SOC Phishing investigation. 
