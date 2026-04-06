@@ -58,3 +58,15 @@ see Sample_reports/folder for full example reports.
  ## Author
  Afeez Akorede | SOC Analyst | Comptia Security+
  linkedin.com/in/afeezakorede
+
+
+## 📸 Project Screenshots
+
+### Sample 1: Initial Triage
+![Sample 1 Scan](screenshots/sample-1-scan.png)
+
+### Sample 10: Multi-IOC Detection
+![Sample 10 Scan](screenshots/sample-10-scan.png)
+
+### Sample 100: Malicious Verdict
+![Sample 100 Scan](screenshots/sample-100-scan.png)
