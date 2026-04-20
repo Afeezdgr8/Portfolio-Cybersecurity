@@ -1,4 +1,4 @@
-# 🏗️ Project 1: The Architect’s Sandbox (Enterprise Lab)
+# The Architect’s Sandbox (Enterprise Lab)
 
 ## 📌 Overview
 This repository documents the foundation of my security research environment. This lab is a segmented virtual network designed to mimic a corporate environment for testing threat detection and incident response workflows.
@@ -25,5 +25,14 @@ To ensure the virtual "plumbing" was functional, I performed an ICMP echo reques
 - **Result:** **Success.**
 
 ## 📸 Proof of Work
-![Ping Test Screenshot](Your_Screenshot_URL_Here)
-*Visual confirmation of successful communication between segmented nodes.*
+
+<img width="419" height="169" alt="image" src="https://github.com/user-attachments/assets/2711055d-2f8a-4328-af1a-cb2f6ebd5446" />
+
+<img width="1023" height="437" alt="image" src="https://github.com/user-attachments/assets/3d94dd61-e42f-429c-867b-63a72bf1cd84" />
+
+<img width="629" height="427" alt="image" src="https://github.com/user-attachments/assets/afe5be87-f153-4e16-ab50-73a558e3aba0" />
+
+<img width="401" height="346" alt="image" src="https://github.com/user-attachments/assets/67f8ab18-921f-45b3-820f-9d81bc4cf851" />
+
+
+
