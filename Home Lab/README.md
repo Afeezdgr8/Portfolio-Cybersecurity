@@ -25,6 +25,11 @@ To ensure the virtual "plumbing" was functional, I performed an ICMP echo reques
 - **Result:** **Success.**
 
 ## 📸 Proof of Work
+<img width="3024" height="4032" alt="GPU 1" src="https://github.com/user-attachments/assets/e0e03681-f368-46f4-9784-cc0939c7a661" />
+
+
+<img width="4032" height="3024" alt="GPU 2" src="https://github.com/user-attachments/assets/6f790389-0460-4f5e-8b99-f5bef425fead" />
+
 
 <img width="419" height="169" alt="image" src="https://github.com/user-attachments/assets/2711055d-2f8a-4328-af1a-cb2f6ebd5446" />
 
